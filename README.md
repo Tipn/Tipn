@@ -2,8 +2,8 @@
 
 Aboout me
 - 👋 Hi, I’m Pavel
-- 🌱 I sow old computers and Admin with a huge background, now I'm work with cisco network equipment. 
-- 💞️ I’m looking to collaborate on with a Mentor who shows me on my gaps 
+- 🌱 Since childhood I love computers and have a lot of experience with them. I developed the architecture of computer networks and worked with servers. At the moment I administer the L3 network equipment. In the public sector
+- 💞️ I’m looking the new challenges and new experiences  
 - 📫 How to reach me meddel developer 
 
 Latest YouTube 
