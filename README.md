@@ -6,9 +6,8 @@ Aboout me
 - 💞️ I’m looking the new challenges and new experiences  
 - 📫 I know how to reach meddel developer status and on the way  
 
-Latest YouTube 
-
 Languages and Tolls
+
 ![cisco](https://img.shields.io/badge/-Cisco-C0A168??style=plastic&logo=cisco&logoColor=221B08)
 ![Mikrosoft](https://img.shields.io/badge/-Microsoft-C0A168??style=plastic&logo=Microsoft&logoColor=221B08)
 
