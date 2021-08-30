@@ -4,7 +4,7 @@ Aboout me
 - 👋 Hi, I’m Pavel
 - 🌱 Since childhood I love computers and have a lot of experience with them. I developed the architecture of computer networks and worked with servers. At the moment I administer the L3 network equipment. In the public sector
 - 💞️ I’m looking the new challenges and new experiences  
-- 📫 I know how to reach meddel developer status and on the way  
+- 📫 I know how to reach middel developer status and on the way  
 
 Languages and Tolls
 
