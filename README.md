@@ -17,6 +17,7 @@ Languages and Tolls
 ![SQL](https://img.shields.io/badge/-SQL-C0A168??style=plastic&logo=mysql&logoColor=221B08)
 ![kubernetes](https://img.shields.io/badge/-kubernetes-C0A168??style=plastic&logo=Kubernetes&logoColor=221B08)
 
+![SharePoint](https://img.shields.io/badge/-SharePoinnt-C0A168??style=plastic&logo=SharePoint&logoColor=221B08)
 
 
 Follow Me 
